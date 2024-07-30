@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">Experiências:</h2>
+<h2 align="left">Experiências:</h1>
 
 ###
 
-<h5 align="left">- Desenvolvimento de aplicações backend utilizando Java e o framework Spring Boot.<br>- Implementação de APIs RESTful para comunicação entre sistemas.<br>- Modelagem e manipulação de bancos de dados relacionais, como PostgreSQL e MySQL.<br>- Utilização de boas práticas de programação, como Clean Code e princípios de SOLID.<br>- Autenticação e autorização utilizando Spring Security e JSON Web Tokens (JWT).<br>- Trabalho em equipes ágeis utilizando metodologias como Scrum e Kanban.<br>- Uso de ferramentas de controle de versão, como Git e GitHub.<br>- Testes de unidade, integração e comportamentais utilizando JUnit e Mockito.<br>- Integração com sistemas externos e consumo de APIs RESTful.<br>- Conhecimentos em Docker<br>- Conhecimento em Mensageria com Kafka e RabbitMQ</h5>
+<h4 align="left">- Desenvolvimento de aplicações backend utilizando Java e o framework Spring Boot.<br>- Implementação de APIs RESTful para comunicação entre sistemas.<br>- Modelagem e manipulação de bancos de dados relacionais, como PostgreSQL e MySQL.<br>- Utilização de boas práticas de programação, como Clean Code e princípios de SOLID.<br>- Autenticação e autorização utilizando Spring Security e JSON Web Tokens (JWT).<br>- Trabalho em equipes ágeis utilizando metodologias como Scrum e Kanban.<br>- Uso de ferramentas de controle de versão, como Git e GitHub.<br>- Testes de unidade, integração e comportamentais utilizando JUnit e Mockito.<br>- Integração com sistemas externos e consumo de APIs RESTful.<br>- Conhecimentos em Docker<br>- Conhecimento em Mensageria com Kafka e RabbitMQ</h5>
 
 ###
 
@@ -80,7 +80,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/joanersoncosta/joanersoncosta/output/snake.svg" alt="Snake animation" />
 
 ###
